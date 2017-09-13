@@ -1,0 +1,49 @@
+/* CSS */
+
+/* theme colors -- 
+brown = rgb(134, 122, 110)
+forest green = rgb(88, 112, 64)
+light green = rgb(153, 195, 131)
+light blue = rgb(157, 223, 222)
+gray/green = rgb(77, 97, 96)
+*/
+
+table {
+    background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(77, 97, 96, 0.65), white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(77, 97, 96, 0.65);, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(77, 97, 96, 0.65), white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(77, 97, 96, 0.65), white); /* Standard syntax */
+}
+
+h4 {
+  color: rgb(77, 97, 96);
+}
+
+h5 {
+  color: rgb(88, 112, 64);
+}
+  
+#about.fluid-container {
+  background-color: rgb(77, 97, 96); 
+  background-color:rgba(77, 97, 96, 0.65);
+}
+#act.img-responsive {
+  border-radius: 25px;
+}
+
+
+hr {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-12.png) repeat-x 0 0;
+    border: 0;
+  color: black;
+}
+
+svg#icon-waves {
+  fill: #2ba8dd;
+  width: 90px;
+  height: 15px;
+  margin: 0 auto;
+}
+ 
