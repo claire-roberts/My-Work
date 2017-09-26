@@ -6,14 +6,15 @@ forest green = rgb(88, 112, 64)
 light green = rgb(153, 195, 131)
 light blue = rgb(157, 223, 222)
 gray/green = rgb(77, 97, 96)
+tan = #DEDECD
 */
 
 table {
-    background: white; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(rgba(77, 97, 96, 0.65), white); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(rgba(77, 97, 96, 0.65);, white); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(rgba(77, 97, 96, 0.65), white); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(rgba(77, 97, 96, 0.65), white); /* Standard syntax */
+    background: #DEDECD; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(77, 97, 96, 0.65), #DEDECD); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(77, 97, 96, 0.65), #DEDECD); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(77, 97, 96, 0.65), #DEDECD); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(77, 97, 96, 0.65), #DEDECD); /* Standard syntax */
 }
 
 h4 {
@@ -41,7 +42,7 @@ hr {
 }
 
 svg#icon-waves {
-  fill: #2ba8dd;
+  fill: rgb(88, 112, 64);
   width: 90px;
   height: 15px;
   margin: 0 auto;
