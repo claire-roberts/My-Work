@@ -1,23 +1,23 @@
  div#box1.col-xs-12.col-md-3{
-     height: 220px;
+     height: 300px;
      background-color: rgb(88, 112, 64);
 
 }
 
 div#box2.col-xs-12.col-md-3{
-    height: 220px;
+    height: 300px;
     background-color: rgb(153, 195, 131);
 
 }
 
 div#box3.col-xs-12.col-md-3{
-    height: 220px;
+    height: 300px;
     background-color: rgb(157, 223, 222);
 
 }
 
 div#box4.col-xs-12.col-md-3{
-    height: 220px;
+    height: 300px;
     background-color:rgb(77, 97, 96);
 
 }
